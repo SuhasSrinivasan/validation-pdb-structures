@@ -1,0 +1,50 @@
+{
+  "name": "polymer-ligand_1Z0J",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A"
+        ],
+        "sequence": "GSALRELKVCLLGDTGVGKSSIMWRFVEDSFDPNINPTIGASFMTKTVQYQNELHKFLIWDTAGLERFRALAPMYYRGSAAAIIVYDITKEETFSTLKNWVRELRQHGPPSIVVAIAGNKCDLTDVREVMERDAKDYADSIHAIFVETSAKNAININELFIEISRRIPST"
+      }
+    },
+    {
+      "protein": {
+        "id": [
+          "B"
+        ],
+        "sequence": "GSPEAEEPIEEELLLQQIDNIKAYIFDAKQCGRLDEVEVLTENLRELKHTLAKQKGGTD"
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "C"
+        ],
+        "ccdCodes": [
+          "GTP"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "D"
+        ],
+        "ccdCodes": [
+          "MG"
+        ]
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

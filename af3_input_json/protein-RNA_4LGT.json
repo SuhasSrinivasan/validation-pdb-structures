@@ -1,0 +1,32 @@
+{
+  "name": "protein-RNA_4LGT",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B"
+        ],
+        "sequence": "GPGSMSEKLQKVLARAGHGSRREIESIIEAGRVSVDGKIAKLGDRVEVTPGLKIRIDGHLISVRESAEQICRVLAYYKPEGELCTRNDPEGRPTVFDRLPKLRGARWIAVGRLDVNTCGLLLFTTDGELANRLMHPSREVEREYAVRVFGQVDDAKLRDLSRGVQLEDGPAAFKTIKFSGGEGINQWYNVTLTEGRNREVRRLWEAVGVQVSRLIRVRYGDIPLPKGLPRGGWTELDLAQTNYLRELVELPPETS"
+      }
+    },
+    {
+      "rna": {
+        "id": [
+          "C",
+          "D"
+        ],
+        "sequence": "AGAACGUCGUGAGACAGUUCG"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

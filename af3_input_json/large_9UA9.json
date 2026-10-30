@@ -1,0 +1,65 @@
+{
+  "name": "large_9UA9",
+  "modelSeeds": [
+    1
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B",
+          "C"
+        ],
+        "sequence": "PVLTQPPSASEAARKSVTISCSGSSSNIGSNSVSWYQQLPGTALKLLISYNDQRASGVSDRFSGSKSGTSASLAISGLQTEDEADYYCAAWDDSLSGPVFGGGTRLTVL"
+      }
+    },
+    {
+      "protein": {
+        "id": [
+          "D",
+          "E",
+          "F"
+        ],
+        "sequence": "QVQLQESGPGLVKPSETLSLTCTVSGASISSYWWGWIRQPPGKGLEWIADIYPNSGSTNYNPSLKSRVTNSKDASKNQFSLKLSSVTAADTAMYYCARAPRGYSYSYVFGHRFDVWGPGVLVTVS"
+      }
+    },
+    {
+      "protein": {
+        "id": [
+          "G",
+          "H",
+          "I"
+        ],
+        "sequence": "ILHYEKLSKIGLVKGVTRKYKIKSNPLTKDIVIKMIPNVSNMSQCTGSVMENYKTRLNGILTPIKGALEIYKNNTHDLVGDVRLAGVIMAGVAIGIATAAQITAGVALYEAMKNADNINKLKSSIESTNEAVVKLQETAEKTVYVLTALQDYINTNLVPTIDKISCKQTELSLDLALSKYLSDLLFVFGPNLQDPVSNSMTIQAISQAFGGNYETLLRTLGYATEDFDDLLESDSITGQIIYVDLSSYYIIVRVYFPILTEIQQAYIQELLPVSFNNDNSEWISIVPNFILVRNTLISNIEIGFCLITKRSVICNQDYATPMTNNMRECLTGSTEKCPRELVVSSHVPRFALSNGVLFANCISVTCQCQTTGRAISQSGEQTLLMIDNTTCPTAVLGNVIISLGKYLGSVNYNSEGIAIGPPVFTDKVDISSQISSMNQSLQQSKDYIKE"
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "J",
+          "K",
+          "L"
+        ],
+        "ccdCodes": [
+          "NAG"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "M",
+          "N",
+          "O"
+        ],
+        "ccdCodes": [
+          "NAG",
+          "NAG"
+        ]
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

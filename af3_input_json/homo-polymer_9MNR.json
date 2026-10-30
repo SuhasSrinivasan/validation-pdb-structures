@@ -1,0 +1,25 @@
+{
+  "name": "homo-polymer_9MNR",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "sequence": "MGSSHHHHHHGSMYIAIDGDDVGRKITSSYLSNSEERLTYISNKLNDTTKKISKMLLSNGFEIIFQAADGVTAKTDNEVNLNFVFDKIKSYSFDEITFSAGVGANLREAYVALLNSKSNGKNMISIYKDIL"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

@@ -1,0 +1,29 @@
+{
+  "name": "homo-polymer_6RCD",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E",
+          "F",
+          "G",
+          "H"
+        ],
+        "sequence": "ISFKPGNQIDFNRLFTLPVTELFDPNTMFVYDQYVPLLVNLPSGFDQASIRLKVISYSVENQTLGVRLEFKDPQTQQFIPVLNASSTGPQTVFQPFNQWAD"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

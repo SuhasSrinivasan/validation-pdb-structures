@@ -1,0 +1,45 @@
+{
+  "name": "polymer-ligand_1SBY",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B"
+        ],
+        "sequence": "MDLTNKNVIFVAALGGIGLDTSRELVKRNLKNFVILDRVENPTALAELKAINPKVNITFHTYDVTVPVAESKKLLKKIFDQLKTVDILINGAGILDDHQIERTIAINFTGLVNTTTAILDFWDKRKGGPGGIIANICSVTGFNAIHQVPVYSASKAAVVSFTNSLAKLAPITGVTAYSINPGITRTPLVHTFNSWLDVEPRVAELLLSHPTQTSEQCGQNFVKAIEANKNGAIWKLDLGTLEAIEWTKHWDSHI"
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "C",
+          "D"
+        ],
+        "ccdCodes": [
+          "NAD"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "E",
+          "F"
+        ],
+        "ccdCodes": [
+          "ETF"
+        ]
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

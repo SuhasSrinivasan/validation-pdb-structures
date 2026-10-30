@@ -1,0 +1,67 @@
+{
+  "name": "protein-DNA-ligand_9Y19",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A"
+        ],
+        "sequence": "MSKRKAPQETLNGGITDMLTELANFEKNVSQAIHKYNAYRKAASVIAKYPHKIKSGAEAKKLPGVGTKIAEKIDEFLATGKLRKLEKIRQDDTSSSINFLTRVSGIGPSAARKFVDEGIKTLEDLRKNEDKLNHHQRIGLKYFGDFEKRIPREEMLQMQDIVLNEVKKVDSEYIATVCGSFRRGAESSGDMDVLLTHPSFTSESTKQPKLLHQVVEQLQKVHFITDTLSKGETKFMGVCQLPSKNDEKEYPHRRIDIRLIPKDQYYCGVLYFTGSDIFNKNMRAHALEKGFTINEYTIRPLGVTGVAGEPLPVDSEKDIFDYIQWKYREPKDRSE"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "B"
+        ],
+        "sequence": "CCGACAGCGCATCAGC"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "C"
+        ],
+        "sequence": "GCTGATGCGC"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "D"
+        ],
+        "sequence": "GTCGG"
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "E"
+        ],
+        "ccdCodes": [
+          "DUP"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "F",
+          "G"
+        ],
+        "ccdCodes": [
+          "MG"
+        ]
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

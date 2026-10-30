@@ -1,0 +1,78 @@
+{
+  "name": "protein-DNA-ligand_8G2P",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B"
+        ],
+        "sequence": "GTGPDKLKKVLDKLRLKRKDISEAAETVNKVVERLLRRMQKRESEFKGVEQLNTGSYYEHVKISAPNEFDVMFKLEVPRIELQEYYETGAFYLVKFKRIPRGNPLSHFLEGEVLSATKMLSKFRKIIKEEVKEIKDIDVSVEKEKPGSPAVTLLIRNPEEISVNIILALESKGSWPISTKEGLPIQGWLGTKVRTNLRREPFYLVPKNAKDGNSFQGETWRLSFSHTEKYILNNHGIEKTCCESSGAKCCRKECLKLMKYLLEQLKKEFQELDAFCSYHVKTAIFHMWTQDPQDSQWDPRNLSSCFDKLLAFFLECLRTEKLDHYFIPKFNLFSQELIDRKSKEFLSKKIEYERNNGFPIFDKL"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "C",
+          "D",
+          "E",
+          "F"
+        ],
+        "sequence": "ATCTGTACATGTACAGAT"
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "G",
+          "H"
+        ],
+        "ccdCodes": [
+          "ATP"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "I",
+          "J"
+        ],
+        "ccdCodes": [
+          "GTP"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "K",
+          "L"
+        ],
+        "ccdCodes": [
+          "MG"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "M",
+          "N"
+        ],
+        "ccdCodes": [
+          "ZN"
+        ]
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

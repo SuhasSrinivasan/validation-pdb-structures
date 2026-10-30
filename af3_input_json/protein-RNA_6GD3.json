@@ -1,0 +1,32 @@
+{
+  "name": "protein-RNA_6GD3",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B",
+          "C"
+        ],
+        "sequence": "GAMGWCIFIYNLGQDADEGILWQMFGPFGAVTNVKVIRDFNTNKCKGFGFVTMTNYEEAAMAIASLNGYRLGDKILQVSFKTNKSHK"
+      }
+    },
+    {
+      "rna": {
+        "id": [
+          "D"
+        ],
+        "sequence": "UAUUUA"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

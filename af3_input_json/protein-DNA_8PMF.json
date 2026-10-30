@@ -1,0 +1,38 @@
+{
+  "name": "protein-DNA_8PMF",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A"
+        ],
+        "sequence": "RAKKPRKARTAFSDHQLNQLERSFERQKYLSVQDRMDLAAALNLTDTQVKTWYQNRRTKWKRQTAV"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "B"
+        ],
+        "sequence": "CGCTAAACGGTT"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "C"
+        ],
+        "sequence": "AACCGTTTAGCG"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

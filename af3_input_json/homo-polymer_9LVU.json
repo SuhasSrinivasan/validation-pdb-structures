@@ -1,0 +1,24 @@
+{
+  "name": "homo-polymer_9LVU",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B",
+          "C"
+        ],
+        "sequence": "MSGLEELRRELVELIRDALEACMHAIAPEKLPAVRAVSDDPFERLEALIAAMRGSENLYFQS"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

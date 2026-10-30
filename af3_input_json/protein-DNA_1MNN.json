@@ -1,0 +1,38 @@
+{
+  "name": "protein-DNA_1MNN",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A"
+        ],
+        "sequence": "MNEMENTVPVLQDDLVSKYERELSTEQEEDTPVILTQLNEDGTTSNYFDKRKLKIAPRSTLQFKVGPPFELVRDYCPVVESHTGRTLDLRIIPRIDRGFDHIDEEWVGYKRNYFTLVSTFETANCDLDTFLKSSFDLLVEDSSVEGRLRVQYFAIKIKAKNDDDDTEINLVQHTAKRDKGPQFCPSVCPLVPSPLPKHQTIREASNVRNITKMKKYDSTFYLHRDHVNYEEYGVDSLLFSYPEDSIQKVARYERVQFASSISVKKPSQQNKHFSLHVILGAVVDPDTFHGENPGIPYDELALKNGSKGMFVYLQEMKTPPLIIRGRSPSNYASSQRITVR"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "B"
+        ],
+        "sequence": "TGCGACACAAAAAC"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "C"
+        ],
+        "sequence": "AGTTTTTGTGTCGC"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

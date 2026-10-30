@@ -1,0 +1,50 @@
+{
+  "name": "polymer-ligand_9OHL",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A"
+        ],
+        "sequence": "MKKVRLKELESRLQQVDGFEKPKLLLEQYPTRPHIAACMLYTIHNTYDDIENKVVADLGCGCGVLSIGTAMLGAGLCVGFDIDEDALEIFNRNAEEFELTNIDMVQCDVCLLSNRMSKSFDTVIMNPPFGTKNNKGTDMAFLKTALEMARTAVYSLHKSSTREHVQKKAAEWKIKIDIIAELRYDLPASYKFHKKKSVDIEVDLIRFSF"
+      }
+    },
+    {
+      "protein": {
+        "id": [
+          "B"
+        ],
+        "sequence": "MKLLTHNLLSSHVRGVGSRGFPLRLQATEVRICPVEFNPNFVARMIPKVEWSAFLEAADNLRLIQVPKGPVEGYEENEEFLRTMHHLLLEVEVIEGTLQCPESGRMFPISRGIPNMLLSEEETES"
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "C"
+        ],
+        "ccdCodes": [
+          "SAM"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "D"
+        ],
+        "ccdCodes": [
+          "A1CBE"
+        ]
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

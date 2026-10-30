@@ -1,0 +1,55 @@
+{
+  "name": "protein-protein-ligand-ion_9PV1",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B"
+        ],
+        "sequence": "PHMEEHPFDNDFRVTPQHVEQFQRDGFVKLSGFFNPNVVRTLLNRVEVEMSRAPDNFKSEFSRLKYDFETEKTDIYELIAQPYFRKALTALVQKDLFLTFELCFELEKNVSKGFPWHVGVQSFGYQVADEFGCTIWAALHPVRKSGQRGGMAYVPERVVSGRFIYDQIEPAIISTLEAKEQAGEKTTMDDYFAMRSGILNSPTMGEILKNHQVEDDFEPGDVLVFNKYVVHRSIMLEDGPLPKRAAFVMRFVEDGSHYDLQRARNLEYPAEKYGHKAFTRSHMEIGLPDGALLTDSEYFTDRDKRFVRCDLA"
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "C",
+          "D"
+        ],
+        "ccdCodes": [
+          "BTN"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "E",
+          "F"
+        ],
+        "ccdCodes": [
+          "AKG"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "G"
+        ],
+        "ccdCodes": [
+          "FE2"
+        ]
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

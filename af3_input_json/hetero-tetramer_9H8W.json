@@ -1,0 +1,32 @@
+{
+  "name": "hetero-tetramer_9H8W",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B"
+        ],
+        "sequence": "CGVPAIQPVLSGLSRIVNGEEAVPGSWPWQVSLQDKTGFHFCGGSLINENWVVTAAHCGVTTSDVVVAGEFDQGSSSEKIQKLKIAKVFKNSKYNSLTINNDITLLKLSTAASFSQTVSAVCLPSASDDFAAGTTCVTTGWGLTRYTNANTPDRLQQASLPLLSNTNCKKYWGTKIKDAMICAGASGVSSCMGDSGGPLVCKKNGAWTLVGIVSWGSSTCSTSTPGVYARVTALVNWVQQTLAAN"
+      }
+    },
+    {
+      "protein": {
+        "id": [
+          "C",
+          "D"
+        ],
+        "sequence": "MPAGMSGAAGKTLANFKAPYPEPTSQQRRYVIFLDPKGYRKELNDYKVELIPGRVEKVDGANVYRMGGSIEERTIDGWGYTYYVVTLTTMSGTLMMPLGDAALKRPRFVAMSTNNLYRYNSQLPIVVYTPKDGELRYRIWTVKSTGSGTAKSINAREM"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

@@ -1,0 +1,34 @@
+{
+  "name": "polymer-ligand_1M2D",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A",
+          "B"
+        ],
+        "sequence": "AEFKHVFVCVQDRPPGHPQGSCAQRGSREVFQAFMEKIQTDPQLFMTTVITPTGCMNASMMGPVVVVYPDGVWYGQVKPEDVDEIVEKHLKGGEPVERLVISKGKPPGMF"
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "C",
+          "D"
+        ],
+        "ccdCodes": [
+          "FES"
+        ]
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

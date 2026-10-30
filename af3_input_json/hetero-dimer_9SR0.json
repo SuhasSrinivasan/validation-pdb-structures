@@ -1,0 +1,30 @@
+{
+  "name": "hetero-dimer_9SR0",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A"
+        ],
+        "sequence": "GGSPVFHTRTIESILEPVAQQISHLVIMHEEGEVDGKAIPDLTAPVAAVQAIVSNLVRVGKETVQTTEDQILKRDMPPAFIKVENACTKLVQAAQMLQSDPYSVPARDYLIDGSRGILSGTSDLLLTFDEAEVRKIIRVCKGILEYLTVAEVVETMEDLVTYTKNLGPGMTKMAKMIDERQQELTHQEHRVMLVNSMNTVKELLPVLISAMKIFVTTKNSKNQGIEEALKNRNFTVEKMSAEINEIIRVLQLTSWDEDAW"
+      }
+    },
+    {
+      "protein": {
+        "id": [
+          "B"
+        ],
+        "sequence": "CEDPETQVVLINAVKDVAKALGDLISATKAAAG"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

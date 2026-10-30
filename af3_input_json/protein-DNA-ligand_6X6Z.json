@@ -1,0 +1,48 @@
+{
+  "name": "protein-DNA-ligand_6X6Z",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A"
+        ],
+        "sequence": "KRIVACDDPDFLTSYFAHSRLHHLSAWKANLKDKFLNENIHKYTKITDKDTYIIFHIDFDCFFATVAYLCRSSSFSACDFKRDPIVVCHGTKNSDIASCNYVARSYGIKNGMWVSQAEKMLPNGIKLISLPYTFEQFQLKSEAFYSTLKRLNIFNLILPISIDEAVCVRIIPDNIHNTNTLNARLCEEIRQEIFQGTNGCTVSIGCSDSLVLARLALKMAKPNGYNITFKSNLSEEFWSSFKLDDLPGVGHSTLSRLESTFDSPHSLNDLRKRYTLDALKASVGSKLGMKIHLALQGQDDEESLKILYDPKEVLQRKSLSIDINWGIRFKNITQVDLFIERGCQYLLEKLNEINKTTSQITLKLMRRCKDAPIEPPKYMGMGRCDSFSRSSRLGIPTNEFGIIATEMKSLYRTLGCPPMELRGLALQFNKLVDVGPDNNQLK"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "B"
+        ],
+        "sequence": "GGGGTGTGGTAG"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "C"
+        ],
+        "sequence": "CATCGCTACCACACCCC"
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "D"
+        ],
+        "ccdCodes": [
+          "DCP"
+        ]
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

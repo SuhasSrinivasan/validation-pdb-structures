@@ -1,0 +1,38 @@
+{
+  "name": "protein-DNA_8SMH",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A"
+        ],
+        "sequence": "GSKKKIRLYQFLLDLLRSGDMKDSIWWVDKDKGTFQFSSKHKEALAHRWGIQKGNRKKMTYQKMARALRNYGKTGIIHKTAKKKLTYQFSGEVLGRGGLAERRLPPH"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "B"
+        ],
+        "sequence": "AATAAGCGGAAGTGGG"
+      }
+    },
+    {
+      "dna": {
+        "id": [
+          "C"
+        ],
+        "sequence": "TCCCACTTCCGCTTAT"
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}

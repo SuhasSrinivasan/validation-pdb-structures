@@ -1,0 +1,78 @@
+{
+  "name": "protein-RNA-ligand_9NXS",
+  "modelSeeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "sequences": [
+    {
+      "protein": {
+        "id": [
+          "A"
+        ],
+        "sequence": "MELRHTPARDLDKFIEDHLLPNTCFRTQVKEAIDIVCRFLKERCFQGTADPVRVSKVVKGGSSGKGTTLRGRSDADLVVFLTKLTSFEDQLRRRGEFIQEIRRQLEACQREQKFKVTFEVQSPRRENPRALSFVLSSPQLQQEVEFDVLPAFDALGQWTPGYKPNPEIYVQLIKECKSRGKEGEFSTCFTELQRDFLRNRPTKLKSLIRLVKHWYQTCKKTHGNKLPPQYALELLTVYAWEQGSRKTDFSTAQGFQTVLELVLKHQKLCIFWEAYYDFTNPVVGRCMLQQLKKPRPVILDPADPTGNVGGGDTHSWQRLAQEARVWLGYPCCKNLDGSLVGAWTMLQKIGSHHHHHH"
+      }
+    },
+    {
+      "rna": {
+        "id": [
+          "B"
+        ],
+        "sequence": "UUCAUAAAGGUCAAAAGCC"
+      }
+    },
+    {
+      "rna": {
+        "id": [
+          "C"
+        ],
+        "sequence": "GGCUUUUGACCUUUAUGAA"
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "D"
+        ],
+        "ccdCodes": [
+          "25L"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "E"
+        ],
+        "ccdCodes": [
+          "POP"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "F"
+        ],
+        "ccdCodes": [
+          "MG"
+        ]
+      }
+    },
+    {
+      "ligand": {
+        "id": [
+          "G"
+        ],
+        "ccdCodes": [
+          "MN"
+        ]
+      }
+    }
+  ],
+  "dialect": "alphafold3",
+  "version": 1
+}
