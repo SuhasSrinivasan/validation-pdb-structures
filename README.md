@@ -1,11 +1,11 @@
 # Diverse PDB structures to validate structural prediction methods
 
-These structures were collected from PDB to validate [Apple Silicon GPU inference support for AlphaFold 3](https://github.com/google-deepmind/alphafold3/pull/699).
-Apple Silicon GPU support for AlphaFold 3 was released in [v3.0.4](https://github.com/google-deepmind/alphafold3/releases/tag/v3.0.4).
+These structures were collected from PDB to validate [Apple Silicon GPU inference support for AlphaFold 3](https://github.com/google-deepmind/alphafold3/pull/699).   
+Apple Silicon GPU support for AlphaFold 3 was released in [v3.0.4](https://github.com/google-deepmind/alphafold3/releases/tag/v3.0.4).   
 
 All the collected structures from PDB are documented in this [manifest](https://github.com/SuhasSrinivasan/validation-pdb-structures/blob/main/af3_input_json/manifest.json).
 
-There are 4 structures in each of the 12 categories and an additional 4 structures to measure inference for large token sizes.
+There are 4 structures in each of the below 12 categories of biomolecular complexes and an additional 4 structures to measure inference for large token sizes.
 
 | Type | n |
 |---|--:|
