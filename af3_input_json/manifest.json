@@ -1,0 +1,736 @@
+{
+  "targets": [
+    {
+      "name": "monomer_9X1W",
+      "type": "monomer",
+      "pdb_id": "9X1W",
+      "input_json_path": "/af3_input_json/monomer_9X1W.json",
+      "max_template_date": "2025-10-02",
+      "reference_pdb_id": "9X1W",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 92
+    },
+    {
+      "name": "homo-polymer_9LVU",
+      "type": "homo-polymer",
+      "pdb_id": "9LVU",
+      "input_json_path": "/af3_input_json/homo-polymer_9LVU.json",
+      "max_template_date": "2025-02-11",
+      "reference_pdb_id": "9LVU",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 186
+    },
+    {
+      "name": "hetero-dimer_29HN",
+      "type": "hetero-dimer",
+      "pdb_id": "29HN",
+      "input_json_path": "/af3_input_json/hetero-dimer_29HN.json",
+      "max_template_date": "2026-03-11",
+      "reference_pdb_id": "29HN",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 214
+    },
+    {
+      "name": "hetero-trimer_9YE9",
+      "type": "hetero-trimer",
+      "pdb_id": "9YE9",
+      "input_json_path": "/af3_input_json/hetero-trimer_9YE9.json",
+      "max_template_date": "2025-09-22",
+      "reference_pdb_id": "9YE9",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 324
+    },
+    {
+      "name": "hetero-tetramer_9G12",
+      "type": "hetero-tetramer",
+      "pdb_id": "9G12",
+      "input_json_path": "/af3_input_json/hetero-tetramer_9G12.json",
+      "max_template_date": "2024-07-08",
+      "reference_pdb_id": "9G12",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 372
+    },
+    {
+      "name": "monomer-ligand_36OM",
+      "type": "monomer-ligand",
+      "pdb_id": "36OM",
+      "input_json_path": "/af3_input_json/monomer-ligand_36OM.json",
+      "max_template_date": "2026-06-22",
+      "reference_pdb_id": "36OM",
+      "molecule_types": [
+        "protein",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 203
+    },
+    {
+      "name": "polymer-ligand_1M2D",
+      "type": "polymer-ligand",
+      "pdb_id": "1M2D",
+      "input_json_path": "/af3_input_json/polymer-ligand_1M2D.json",
+      "max_template_date": "2002-06-21",
+      "reference_pdb_id": "1M2D",
+      "molecule_types": [
+        "protein",
+        "ligand"
+      ],
+      "template_contrast": false,
+      "token_estimate": 228
+    },
+    {
+      "name": "protein-DNA_8PMF",
+      "type": "protein-DNA",
+      "pdb_id": "8PMF",
+      "input_json_path": "/af3_input_json/protein-DNA_8PMF.json",
+      "max_template_date": "2023-06-27",
+      "reference_pdb_id": "8PMF",
+      "molecule_types": [
+        "protein",
+        "dna"
+      ],
+      "template_contrast": false,
+      "token_estimate": 90
+    },
+    {
+      "name": "protein-RNA_3PF4",
+      "type": "protein-RNA",
+      "pdb_id": "3PF4",
+      "input_json_path": "/af3_input_json/protein-RNA_3PF4.json",
+      "max_template_date": "2010-10-26",
+      "reference_pdb_id": "3PF4",
+      "molecule_types": [
+        "protein",
+        "rna"
+      ],
+      "template_contrast": false,
+      "token_estimate": 143
+    },
+    {
+      "name": "protein-DNA-ligand_9Y19",
+      "type": "protein-DNA-ligand",
+      "pdb_id": "9Y19",
+      "input_json_path": "/af3_input_json/protein-DNA-ligand_9Y19.json",
+      "max_template_date": "2025-08-28",
+      "reference_pdb_id": "9Y19",
+      "molecule_types": [
+        "protein",
+        "dna",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 396
+    },
+    {
+      "name": "protein-RNA-ligand_9NXS",
+      "type": "protein-RNA-ligand",
+      "pdb_id": "9NXS",
+      "input_json_path": "/af3_input_json/protein-RNA-ligand_9NXS.json",
+      "max_template_date": "2025-03-25",
+      "reference_pdb_id": "9NXS",
+      "molecule_types": [
+        "protein",
+        "rna",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 481
+    },
+    {
+      "name": "protein-protein-ligand-ion_9E48",
+      "type": "protein-protein-ligand-ion",
+      "pdb_id": "9E48",
+      "input_json_path": "/af3_input_json/protein-protein-ligand-ion_9E48.json",
+      "max_template_date": "2024-10-23",
+      "reference_pdb_id": "9E48",
+      "molecule_types": [
+        "protein",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 288
+    },
+    {
+      "name": "monomer_28VW",
+      "type": "monomer",
+      "pdb_id": "28VW",
+      "input_json_path": "/af3_input_json/monomer_28VW.json",
+      "max_template_date": "2026-02-22",
+      "reference_pdb_id": "28VW",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": true,
+      "token_estimate": 141
+    },
+    {
+      "name": "homo-polymer_22FH",
+      "type": "homo-polymer",
+      "pdb_id": "22FH",
+      "input_json_path": "/af3_input_json/homo-polymer_22FH.json",
+      "max_template_date": "2026-01-07",
+      "reference_pdb_id": "22FH",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 244
+    },
+    {
+      "name": "hetero-dimer_9SR0",
+      "type": "hetero-dimer",
+      "pdb_id": "9SR0",
+      "input_json_path": "/af3_input_json/hetero-dimer_9SR0.json",
+      "max_template_date": "2025-09-22",
+      "reference_pdb_id": "9SR0",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 293
+    },
+    {
+      "name": "hetero-trimer_22EE",
+      "type": "hetero-trimer",
+      "pdb_id": "22EE",
+      "input_json_path": "/af3_input_json/hetero-trimer_22EE.json",
+      "max_template_date": "2026-01-06",
+      "reference_pdb_id": "22EE",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 385
+    },
+    {
+      "name": "hetero-tetramer_9ZDM",
+      "type": "hetero-tetramer",
+      "pdb_id": "9ZDM",
+      "input_json_path": "/af3_input_json/hetero-tetramer_9ZDM.json",
+      "max_template_date": "2025-11-25",
+      "reference_pdb_id": "9ZDM",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 460
+    },
+    {
+      "name": "monomer-ligand_9EAZ",
+      "type": "monomer-ligand",
+      "pdb_id": "9EAZ",
+      "input_json_path": "/af3_input_json/monomer-ligand_9EAZ.json",
+      "max_template_date": "2024-11-10",
+      "reference_pdb_id": "9EAZ",
+      "molecule_types": [
+        "protein",
+        "ligand"
+      ],
+      "template_contrast": false,
+      "token_estimate": 222
+    },
+    {
+      "name": "polymer-ligand_1Z0J",
+      "type": "polymer-ligand",
+      "pdb_id": "1Z0J",
+      "input_json_path": "/af3_input_json/polymer-ligand_1Z0J.json",
+      "max_template_date": "2005-02-28",
+      "reference_pdb_id": "1Z0J",
+      "molecule_types": [
+        "protein",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 262
+    },
+    {
+      "name": "protein-DNA_4X9J",
+      "type": "protein-DNA",
+      "pdb_id": "4X9J",
+      "input_json_path": "/af3_input_json/protein-DNA_4X9J.json",
+      "max_template_date": "2014-12-10",
+      "reference_pdb_id": "4X9J",
+      "molecule_types": [
+        "protein",
+        "dna",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 114
+    },
+    {
+      "name": "protein-RNA_6GD3",
+      "type": "protein-RNA",
+      "pdb_id": "6GD3",
+      "input_json_path": "/af3_input_json/protein-RNA_6GD3.json",
+      "max_template_date": "2018-04-20",
+      "reference_pdb_id": "6GD3",
+      "molecule_types": [
+        "protein",
+        "rna"
+      ],
+      "template_contrast": true,
+      "token_estimate": 268
+    },
+    {
+      "name": "protein-DNA-ligand_6X6Z",
+      "type": "protein-DNA-ligand",
+      "pdb_id": "6X6Z",
+      "input_json_path": "/af3_input_json/protein-DNA-ligand_6X6Z.json",
+      "max_template_date": "2020-05-28",
+      "reference_pdb_id": "6X6Z",
+      "molecule_types": [
+        "protein",
+        "dna",
+        "ligand"
+      ],
+      "template_contrast": false,
+      "token_estimate": 502
+    },
+    {
+      "name": "protein-RNA-ligand_9AVR",
+      "type": "protein-RNA-ligand",
+      "pdb_id": "9AVR",
+      "input_json_path": "/af3_input_json/protein-RNA-ligand_9AVR.json",
+      "max_template_date": "2024-03-03",
+      "reference_pdb_id": "9AVR",
+      "molecule_types": [
+        "protein",
+        "rna",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 495
+    },
+    {
+      "name": "protein-protein-ligand-ion_36OK",
+      "type": "protein-protein-ligand-ion",
+      "pdb_id": "36OK",
+      "input_json_path": "/af3_input_json/protein-protein-ligand-ion_36OK.json",
+      "max_template_date": "2026-06-22",
+      "reference_pdb_id": "36OK",
+      "molecule_types": [
+        "protein",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 443
+    },
+    {
+      "name": "monomer_26LM",
+      "type": "monomer",
+      "pdb_id": "26LM",
+      "input_json_path": "/af3_input_json/monomer_26LM.json",
+      "max_template_date": "2026-05-05",
+      "reference_pdb_id": "26LM",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 399
+    },
+    {
+      "name": "homo-polymer_9MNR",
+      "type": "homo-polymer",
+      "pdb_id": "9MNR",
+      "input_json_path": "/af3_input_json/homo-polymer_9MNR.json",
+      "max_template_date": "2024-12-22",
+      "reference_pdb_id": "9MNR",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 524
+    },
+    {
+      "name": "hetero-dimer_9TP9",
+      "type": "hetero-dimer",
+      "pdb_id": "9TP9",
+      "input_json_path": "/af3_input_json/hetero-dimer_9TP9.json",
+      "max_template_date": "2025-12-16",
+      "reference_pdb_id": "9TP9",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": true,
+      "token_estimate": 398
+    },
+    {
+      "name": "hetero-trimer_11GY",
+      "type": "hetero-trimer",
+      "pdb_id": "11GY",
+      "input_json_path": "/af3_input_json/hetero-trimer_11GY.json",
+      "max_template_date": "2026-02-22",
+      "reference_pdb_id": "11GY",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 669
+    },
+    {
+      "name": "hetero-tetramer_9K1U",
+      "type": "hetero-tetramer",
+      "pdb_id": "9K1U",
+      "input_json_path": "/af3_input_json/hetero-tetramer_9K1U.json",
+      "max_template_date": "2024-10-15",
+      "reference_pdb_id": "9K1U",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 632
+    },
+    {
+      "name": "monomer-ligand_9TOK",
+      "type": "monomer-ligand",
+      "pdb_id": "9TOK",
+      "input_json_path": "/af3_input_json/monomer-ligand_9TOK.json",
+      "max_template_date": "2025-12-16",
+      "reference_pdb_id": "9TOK",
+      "molecule_types": [
+        "protein",
+        "ligand"
+      ],
+      "template_contrast": false,
+      "token_estimate": 282
+    },
+    {
+      "name": "polymer-ligand_9OHL",
+      "type": "polymer-ligand",
+      "pdb_id": "9OHL",
+      "input_json_path": "/af3_input_json/polymer-ligand_9OHL.json",
+      "max_template_date": "2025-05-04",
+      "reference_pdb_id": "9OHL",
+      "molecule_types": [
+        "protein",
+        "ligand"
+      ],
+      "template_contrast": false,
+      "token_estimate": 391
+    },
+    {
+      "name": "protein-DNA_8SMH",
+      "type": "protein-DNA",
+      "pdb_id": "8SMH",
+      "input_json_path": "/af3_input_json/protein-DNA_8SMH.json",
+      "max_template_date": "2023-04-25",
+      "reference_pdb_id": "8SMH",
+      "molecule_types": [
+        "protein",
+        "dna"
+      ],
+      "template_contrast": false,
+      "token_estimate": 140
+    },
+    {
+      "name": "protein-RNA_5KLA",
+      "type": "protein-RNA",
+      "pdb_id": "5KLA",
+      "input_json_path": "/af3_input_json/protein-RNA_5KLA.json",
+      "max_template_date": "2016-06-22",
+      "reference_pdb_id": "5KLA",
+      "molecule_types": [
+        "protein",
+        "rna"
+      ],
+      "template_contrast": false,
+      "token_estimate": 353
+    },
+    {
+      "name": "protein-DNA-ligand_8G2P",
+      "type": "protein-DNA-ligand",
+      "pdb_id": "8G2P",
+      "input_json_path": "/af3_input_json/protein-DNA-ligand_8G2P.json",
+      "max_template_date": "2023-02-05",
+      "reference_pdb_id": "8G2P",
+      "molecule_types": [
+        "protein",
+        "dna",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 930
+    },
+    {
+      "name": "protein-RNA-ligand_9SDF",
+      "type": "protein-RNA-ligand",
+      "pdb_id": "9SDF",
+      "input_json_path": "/af3_input_json/protein-RNA-ligand_9SDF.json",
+      "max_template_date": "2025-08-12",
+      "reference_pdb_id": "9SDF",
+      "molecule_types": [
+        "protein",
+        "rna",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 555
+    },
+    {
+      "name": "protein-protein-ligand-ion_7W4Z",
+      "type": "protein-protein-ligand-ion",
+      "pdb_id": "7W4Z",
+      "input_json_path": "/af3_input_json/protein-protein-ligand-ion_7W4Z.json",
+      "max_template_date": "2021-11-28",
+      "reference_pdb_id": "7W4Z",
+      "molecule_types": [
+        "protein",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 573
+    },
+    {
+      "name": "monomer_9XG1",
+      "type": "monomer",
+      "pdb_id": "9XG1",
+      "input_json_path": "/af3_input_json/monomer_9XG1.json",
+      "max_template_date": "2025-10-28",
+      "reference_pdb_id": "9XG1",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 793
+    },
+    {
+      "name": "homo-polymer_6RCD",
+      "type": "homo-polymer",
+      "pdb_id": "6RCD",
+      "input_json_path": "/af3_input_json/homo-polymer_6RCD.json",
+      "max_template_date": "2019-04-10",
+      "reference_pdb_id": "6RCD",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 808
+    },
+    {
+      "name": "hetero-dimer_9ZCM",
+      "type": "hetero-dimer",
+      "pdb_id": "9ZCM",
+      "input_json_path": "/af3_input_json/hetero-dimer_9ZCM.json",
+      "max_template_date": "2025-11-22",
+      "reference_pdb_id": "9ZCM",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 453
+    },
+    {
+      "name": "hetero-trimer_9KA6",
+      "type": "hetero-trimer",
+      "pdb_id": "9KA6",
+      "input_json_path": "/af3_input_json/hetero-trimer_9KA6.json",
+      "max_template_date": "2024-10-27",
+      "reference_pdb_id": "9KA6",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 758
+    },
+    {
+      "name": "hetero-tetramer_9H8W",
+      "type": "hetero-tetramer",
+      "pdb_id": "9H8W",
+      "input_json_path": "/af3_input_json/hetero-tetramer_9H8W.json",
+      "max_template_date": "2024-10-28",
+      "reference_pdb_id": "9H8W",
+      "molecule_types": [
+        "protein"
+      ],
+      "template_contrast": false,
+      "token_estimate": 806
+    },
+    {
+      "name": "monomer-ligand_9U7X",
+      "type": "monomer-ligand",
+      "pdb_id": "9U7X",
+      "input_json_path": "/af3_input_json/monomer-ligand_9U7X.json",
+      "max_template_date": "2025-03-24",
+      "reference_pdb_id": "9U7X",
+      "molecule_types": [
+        "protein",
+        "ligand"
+      ],
+      "template_contrast": false,
+      "token_estimate": 439
+    },
+    {
+      "name": "polymer-ligand_1SBY",
+      "type": "polymer-ligand",
+      "pdb_id": "1SBY",
+      "input_json_path": "/af3_input_json/polymer-ligand_1SBY.json",
+      "max_template_date": "2004-02-10",
+      "reference_pdb_id": "1SBY",
+      "molecule_types": [
+        "protein",
+        "ligand"
+      ],
+      "template_contrast": false,
+      "token_estimate": 608
+    },
+    {
+      "name": "protein-DNA_1MNN",
+      "type": "protein-DNA",
+      "pdb_id": "1MNN",
+      "input_json_path": "/af3_input_json/protein-DNA_1MNN.json",
+      "max_template_date": "2002-09-04",
+      "reference_pdb_id": "1MNN",
+      "molecule_types": [
+        "protein",
+        "dna"
+      ],
+      "template_contrast": false,
+      "token_estimate": 368
+    },
+    {
+      "name": "protein-RNA_4LGT",
+      "type": "protein-RNA",
+      "pdb_id": "4LGT",
+      "input_json_path": "/af3_input_json/protein-RNA_4LGT.json",
+      "max_template_date": "2013-06-27",
+      "reference_pdb_id": "4LGT",
+      "molecule_types": [
+        "protein",
+        "rna"
+      ],
+      "template_contrast": false,
+      "token_estimate": 552
+    },
+    {
+      "name": "protein-DNA-ligand_9V5P",
+      "type": "protein-DNA-ligand",
+      "pdb_id": "9V5P",
+      "input_json_path": "/af3_input_json/protein-DNA-ligand_9V5P.json",
+      "max_template_date": "2025-05-25",
+      "reference_pdb_id": "9V5P",
+      "molecule_types": [
+        "protein",
+        "dna",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 1009
+    },
+    {
+      "name": "protein-RNA-ligand_9LJR",
+      "type": "protein-RNA-ligand",
+      "pdb_id": "9LJR",
+      "input_json_path": "/af3_input_json/protein-RNA-ligand_9LJR.json",
+      "max_template_date": "2025-01-14",
+      "reference_pdb_id": "9LJR",
+      "molecule_types": [
+        "protein",
+        "rna",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 637
+    },
+    {
+      "name": "protein-protein-ligand-ion_9PV1",
+      "type": "protein-protein-ligand-ion",
+      "pdb_id": "9PV1",
+      "input_json_path": "/af3_input_json/protein-protein-ligand-ion_9PV1.json",
+      "max_template_date": "2025-07-30",
+      "reference_pdb_id": "9PV1",
+      "molecule_types": [
+        "protein",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 677
+    },
+    {
+      "name": "large_4WVF",
+      "type": "large",
+      "pdb_id": "4WVF",
+      "input_json_path": "/af3_input_json/large_4WVF.json",
+      "max_template_date": "2014-11-04",
+      "reference_pdb_id": "4WVF",
+      "molecule_types": [
+        "protein",
+        "ligand",
+        "ion"
+      ],
+      "template_contrast": false,
+      "token_estimate": 1463
+    },
+    {
+      "name": "large_7S3H",
+      "type": "large",
+      "pdb_id": "7S3H",
+      "input_json_path": "/af3_input_json/large_7S3H.json",
+      "max_template_date": "2021-09-05",
+      "reference_pdb_id": "7S3H",
+      "molecule_types": [
+        "protein",
+        "dna",
+        "rna"
+      ],
+      "template_contrast": false,
+      "token_estimate": 1533
+    },
+    {
+      "name": "large_3U7Q",
+      "type": "large",
+      "pdb_id": "3U7Q",
+      "input_json_path": "/af3_input_json/large_3U7Q.json",
+      "max_template_date": "2011-10-13",
+      "reference_pdb_id": "3U7Q",
+      "molecule_types": [
+        "protein",
+        "ligand"
+      ],
+      "template_contrast": false,
+      "token_estimate": 2177
+    },
+    {
+      "name": "large_9UA9",
+      "type": "large",
+      "pdb_id": "9UA9",
+      "input_json_path": "/af3_input_json/large_9UA9.json",
+      "max_template_date": "2025-03-30",
+      "reference_pdb_id": "9UA9",
+      "molecule_types": [
+        "protein",
+        "ligand"
+      ],
+      "template_contrast": false,
+      "token_estimate": 2187
+    }
+  ]
+}
